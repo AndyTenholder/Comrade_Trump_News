@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SovietColors"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/article_thumbnail"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"/>
+    <TextView
+        style="@style/SovietColors"
+        android:id="@+id/article_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Trump-Russia inquiry in 'grave doubt' after GOP chair briefs White House"
+        android:layout_toRightOf="@+id/article_thumbnail"/>
+
+    <TextView
+        style="@style/SovietColors"
+        android:layout_marginTop="2dp"
+        android:id="@+id/article_section"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="US News"
+        android:layout_below="@+id/article_title"
+        android:layout_toRightOf="@+id/article_thumbnail"/>
+
+    <TextView
+        style="@style/SovietColors"
+        android:id="@+id/article_date"
+        android:layout_marginTop="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="2017-03-22T23:15:26Z"
+        android:layout_below="@+id/article_section"
+        android:layout_toRightOf="@+id/article_thumbnail"/>
+
+</RelativeLayout>

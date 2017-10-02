@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Comrade Trump</string>
+
+
+    <!-- Text to display in the list when there are no articles [CHAR LIMIT=NONE] -->
+    <string name="no_articles_today">No articles out yet, check back soon!</string>
+    <string name="no_articles_week">No articles, must have been a slow week.</string>
+    <string name="no_articles_custom">Couldn\'t find any articles. Check your custom dates.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_title">Settings</string>
+
+    <!-- Date Preference strings for settings_main.xml -->
+    <string name="start_date_label">Start Date</string>
+    <string name="start_date_key" translatable="false">start date</string>
+    <string name="start_date_default" translatable="false">2017.01.20</string>
+    <string name="end_date_label">End Date</string>
+    <string name="end_date_key" translatable="false">end date</string>
+    <string name="end_date_default" translatable="false">2017.01.23</string>
+
+    <!-- Article Toolbar -->
+    <string name="today_button_string">Today</string>
+    <string name="week_button_string">Week</string>
+    <string name="custom_button_string">Custom</string>
+    <string name="refresh_button_string">Refresh</string>
+
+    <!-- Timeline Items -->
+    <string name="timeline_date_4_27_2017">April 27, 2017</string>
+    <string name="timeline_event_4_27_2017">The Department of Defense confirms that Michael Flynn is under investigation for failing to disclose payments from a foreign government, despite being previously warned.</string>
+
+    <string name="timeline_date_4_25_2017">April 25, 2017</string>
+    <string name="timeline_event_4_25_2017">House Oversight Committee reveals that Michael Flynn may have broken federal law when he applied to renew his security clearance,
+        by not disclosing that he received more than $30,000 from a Russian state owned media outlet.</string>
+
+    <string name="timeline_date_4_23_2017">April 23, 2017</string>
+    <string name="timeline_event_4_23_2017">Daily beast reports that Senate inquiry is likely understaffed and underqualified.</string>
+
+    <string name="timeline_date_4_21_2017">April 21, 2017</string>
+    <string name="timeline_event_4_21_2017">CNN reports that Russian operatives repeatedly made attempts to infiltrate the Trump campaign through Trump advisors.</string>
+
+    <string name="timeline_date_4_19_2017">April 19, 2017</string>
+    <string name="timeline_event_4_19_2017">Documents from Russian think tank RISS, show a strategic plan to meddle in US elections including: electing a pro-Russia president,
+    damaging Hillary Clinton, and elevating concern about voter fraud.</string>
+
+    <string name="timeline_date_4_13_2017">April 13, 2017</string>
+    <string name="timeline_event_4_13_2017">House Democrats call for the FBI to suspend the security clearence of Jared Kushner, due to Kushner failing to
+        "disclose key meetings with foreign government officials during his application process."</string>
+
+    <string name="timeline_date_4_12_2017">April 12, 2017</string>
+    <string name="timeline_event_4_12_2017">It is confirmed that Paul Manafort\'s investing firm received at least $1.2 million in off the books payments from Pro_Russia
+        Ukrainian Group.</string>
+
+    <string name="timeline_date_4_11_2017">April 11, 2017</string>
+    <string name="timeline_event_4_11_2017">Report shows that FBI and DOJ obtained warrant to monitor Trump foreign policy advisor Carter Page in summer of 2016.</string>
+
+    <string name="timeline_date_4_06_2017">April 6, 2017</string>
+    <string name="timeline_event_4_06_2017">Devin Nunes steps aside as chairman of the House investigation into Trump, as the House ethics committee begins their own investagtion
+        into Nunes\' actions.</string>
+
+    <string name="timeline_date_4_03_2017">April 3, 2017</string>
+    <string name="timeline_event_4_03_2017">Carter Page met with a Russian intelligence operative in 2013 and provided him documents about the energy industry.</string>
+
+    <string name="timeline_date_3_31_2017">March 31, 2017</string>
+    <string name="timeline_event_3_31_2017">The Senate turns down Flynn\'s request for immuniy.</string>
+
+    <string name="timeline_date_3_30_2017">March 30, 2017</string>
+    <string name="timeline_event_3_30_2017_1">Michael Flynn offers to testify on Russia-Trump ties in exchange for immunity.</string>
+    <string name="timeline_event_3_30_2017_2">Nunes confidential sources are revealed to be two White House officials.</string>
+
+    <string name="timeline_date_3_29_2017">March 29, 2017</string>
+    <string name="timeline_event_3_29_2017">Senate Intelligence Committee Chair Sen. Richard Burr (R-NC) announces that 20 witnesses have been asked for interviews as part of
+        the Trump-Russia ties investigation.</string>
+
+    <string name="timeline_date_3_27_2017">March 27, 2017</string>
+    <string name="timeline_event_3_27_2017">Jared Kushner agrees to testify before the Senate Intelligence Committee.</string>
+
+    <string name="timeline_date_3_24_2017">March 24, 2017</string>
+    <string name="timeline_event_3_24_2017">Paul Manafort agrees to testify before the House Intelligence Committee.</string>
+
+    <string name="timeline_date_3_22_2017">March 22, 2017</string>
+    <string name="timeline_event_3_22_2017">House Intelligence Committee Chair Devin Nunes, holds a press conference stating that he has evidence that members of the Trump
+        team\'s conversations were picked up by intelligence agencies conducting surveillance of foreign targets.</string>
+
+    <string name="timeline_date_3_20_2017">March 20, 2017</string>
+    <string name="timeline_event_3_20_2017">The F.B.I. director, James B. Comey, reveals that the FBI is conducting an investigation into the Russian governments efforts to
+        interfere in the 2016 election and is looking into any links between the Trump campaign and the Russian government.</string>
+
+    <string name="timeline_date_3_16_2017">March 16, 2017</string>
+    <string name="timeline_event_3_16_2017_1">Nazi allied group, Vitézi Rend, claims Trump counter terrorism advisor, Sebastian Gorka is a sworn member.</string>
+    <string name="timeline_event_3_16_2017_2">It is revealed that Flynn was paid $33,750 to give a speech on a state-run Russian TV network in December of 2015.</string>
+
+    <string name="timeline_date_3_10_2017">March 10, 2017</string>
+    <string name="timeline_event_3_10_2017">The White House acknowledges that they knew that Gen. Flynn\'s consulting firm was under contract with Turkey while he was serving
+        as an adviser to Trump.</string>
+
+    <string name="timeline_date_3_02_2017">March 2, 2017</string>
+    <string name="timeline_event_3_02_2017">Sessions announces he will recuse himself from any investigations relating to Russia and the Trump campaign.</string>
+
+    <string name="timeline_date_3_01_2017">March 1, 2017</string>
+    <string name="timeline_event_3_01_2017">The Washington Post first reports that Sessions, now the attorney general, met twice with Kislyak in 2016.</string>
+
+    <string name="timeline_date_2_27_2017">February 27, 2017</string>
+    <string name="timeline_event_2_27_2017">Members of the House Intelligence Committee sign off on a plan to investigate Russia\'s alleged interference in the US elections.</string>
+
+    <string name="timeline_date_2_24_2017">February 24, 2017</string>
+    <string name="timeline_event_2_24_2017">FBI refused White House request to knock down recent Trump-Russia stories.</string>
+
+    <string name="timeline_date_2_16_2017">February 16, 2017</string>
+    <string name="timeline_event_2_16_2017">FBI officials say that they do not plan to pursue charges against Flynn barring any new information.</string>
+
+    <string name="timeline_date_2_14_2017">February 14, 2017</string>
+    <string name="timeline_event_2_14_2017">CNN reports that high-level advisers close to then-nominee Trump were in constant communication during the campaign with Russians
+        known to US intelligence.</string>
+
+    <string name="timeline_date_2_13_2017">February 13, 2017</string>
+    <string name="timeline_event_2_13_2017">Flynn resigns amid turmoil caused by his lie.</string>
+
+    <string name="timeline_date_2_10_2017">February 10, 2017</string>
+    <string name="timeline_event_2_10_2017">Trump states that he is unaware of reports that Flynn spoke about sanctions, a US official later confirms that Flynn and Kislyak
+        did speak about sanctions, among other matters.</string>
+
+    <string name="timeline_date_2_09_2017">February 9, 2017</string>
+    <string name="timeline_event_2_09_2017">Pence finds out that Flynn lied to him.</string>
+
+    <string name="timeline_date_2_08_2017">February 8, 2017</string>
+    <string name="timeline_event_2_08_2017">The Senate confirms Sessions to be the US attorney general.</string>
+
+    <string name="timeline_date_1_26_2017">January 26, 2017</string>
+    <string name="timeline_event_1_26_2017">The Justice Department privately warns the Trump administration that Flynn misled administration officials regarding his
+        communications with Kislyak and is potentially vulnerable to blackmail by the Russians.</string>
+
+    <string name="timeline_date_1_23_2017">January 23, 2017</string>
+    <string name="timeline_event_1_23_2017">Press Scretary Spicer reiterates that Flynn told him sanctions were not discussed in the calls.</string>
+
+    <string name="timeline_date_1_15_2017">January 15, 2017</string>
+    <string name="timeline_event_1_15_2017">Vice President Pence tells CBS news that Flynn and Kislyak did not discuss sanctions.</string>
+
+    <string name="timeline_date_1_13_2017">January 13, 2017</string>
+    <string name="timeline_event_1_13_2017">Trump spokesman Sean Spicer says Flynn\'s calls to Kislyak focused on the logistics of connecting Trump and Putin.</string>
+
+    <string name="timeline_date_1_12_2017">January 12, 2017</string>
+    <string name="timeline_event_1_12_2017">The Washington Post reports that calls between Flynn and Kislyak took place the same day that the sanctions against Russia were announced.</string>
+
+    <string name="timeline_date_1_10_2017">January 10, 2017</string>
+    <string name="timeline_event_1_10_2017">At his confirmation hearing, Sessions states that he never was never in contact with the Russians.</string>
+
+    <string name="timeline_date_1_06_2017">January 6, 2017</string>
+    <string name="timeline_event_1_06_2017">The top US intelligence agency releases a report concluding that Putin ordered a cyber campaign to help Trump and hurt
+        Clinton in the US presidential election.</string>
+
+    <string name="timeline_date_12_29_2016">December 29, 2016</string>
+    <string name="timeline_event_12_29_2016_1">Flynn and Kislyak speak regarding the just released sanctions.</string>
+    <string name="timeline_event_12_29_2016_2">Obama announces new sanctions against Russia in response to their meddling in the US election.</string>
+
+    <string name="timeline_date_12_28_2016">December 28, 2016</string>
+    <string name="timeline_event_12_28_2016">Sergey Kislyak text messages Gen. Flynn.</string>
+
+    <string name="timeline_date_12_25_2016">December 25, 2016</string>
+    <string name="timeline_event_12_25_2016">Gen. Flynn and Sergey Kislyak text message holiday pleasantries on Christmas.</string>
+
+    <string name="timeline_date_12_19_2016">December 19, 2016</string>
+    <string name="timeline_event_12_19_2016">Gen. Flynn speaks with Sergey Kislyak after the shooting of the Russian ambassador to Turkey.</string>
+
+    <string name="timeline_date_12_12_2016">December 12, 2016</string>
+    <string name="timeline_event_12_12_2016">CNN reports that Russian groups also hacked the Republican servers, but chose not to release the information.</string>
+
+    <string name="timeline_date_12_01_2016">December 1, 2016</string>
+    <string name="timeline_event_12_01_2016">CNN reports the Paul Manafort has rejoined the Trump team and is helping to shape the new administration.</string>
+
+    <string name="timeline_date_11_18_2016">November 18, 2016</string>
+    <string name="timeline_event_11_18_2016">President-elect Trump appoints Army Lt. Gen. Michael Flynn his national security adviser.</string>
+
+    <string name="timeline_date_10_07_2016">October 7, 2016</string>
+    <string name="timeline_event_10_07_2016">WikiLeaks begins releasing hacked emails from Clinton campaign manager John Podesta.  The emails continue to be released
+        daily for the rest of the campaign.</string>
+
+    <string name="timeline_date_10_04_2016">October 4, 2016</string>
+    <string name="timeline_event_10_04_2016">Roger Stone tweets alluding to the release of more hacked emails.</string>
+
+    <string name="timeline_date_09_08_2016">September 8, 2016</string>
+    <string name="timeline_event_09_08_2016">Jeff Sessions meets again with Russian ambassador Sergey Kislyak.</string>
+
+    <string name="timeline_date_08_21_2016">August 21, 2016</string>
+    <string name="timeline_event_08_21_2016">Roger Stone tweets, alluding to more upcoming email leaks.</string>
+
+    <string name="timeline_date_08_19_2016">August 19, 2016</string>
+    <string name="timeline_event_08_19_2016">Paul Manafort resigns his position on Trump campaign the same day the FBI announces investigations into the pro-Russia
+        Ukrainian group Manafort had done work for.</string>
+
+    <string name="timeline_date_08_17_2016">August 17, 2016</string>
+    <string name="timeline_event_08_17_2016">Roger Stone exchanges private messages with Guccifer 2.0 on Twitter, then posts screenshots on the conversation.</string>
+
+    <string name="timeline_date_08_14_2016">August 14, 2016</string>
+    <string name="timeline_event_08_14_2016">The New York Times reports that a pro-Russian political group in the Ukraine likely paid Paul Manafort $12.7 million in undisclosed cash payments.</string>
+
+    <string name="timeline_date_08_08_2016">August 8, 2016</string>
+    <string name="timeline_event_08_08_2016">In a speech, Roger Stone states that he is in communication with WikiLeaks founder Julian Assange and that more emails will be coming soon.</string>
+
+    <string name="timeline_date_08_05_2016">August 5, 2016</string>
+    <string name="timeline_event_08_05_2016">Trump adviser Roger Stone writes a column for Breitbart News repeating the claim that Guccifer 2.0 was behind the DNC hacks.</string>
+
+    <string name="timeline_date_07_27_2016">July 27, 2016</string>
+    <string name="timeline_event_07_27_2016">Trump calls for Russia to continue hacks on the DNC.</string>
+
+    <string name="timeline_date_07_25_2016">July 25, 2016</string>
+    <string name="timeline_event_07_25_2016">The FBI announces that it has begun an investigation into the hacked emails.</string>
+
+    <string name="timeline_date_07_22_2016">July 22, 2016</string>
+    <string name="timeline_event_07_22_2016">Days before the Democratic National Convention, WikiLeaks releases nearly 20,000 emails hacked from the DNC server.</string>
+
+    <string name="timeline_date_07_18_2016">July 18, 2016</string>
+    <string name="timeline_event_07_18_2016_1">Trump  campaign officials J.D. Gordon and Carter Page also had meeting with the Russian ambassador at the Republican Convention.</string>
+    <string name="timeline_event_07_18_2016_2">Jeff Sessions has a meeting with Russian ambassador to the US Sergey Kislyak at the Republican National Convention.</string>
+
+    <string name="timeline_date_07_08_2016">July 8, 2016</string>
+    <string name="timeline_event_07_08_2016">Telegraph report finds that Trump foreign policy adviser Carter Page gave a lecture in Moscow in which he was highly
+        negative toward the US policy toward Russia.</string>
+
+    <string name="timeline_date_06_20_2016">June 20, 2016</string>
+    <string name="timeline_event_06_20_2016">Trump fires campaign manager Corey Lewandowski and Paul Manafort emerages as Trump\'s top campaign official.</string>
+
+    <string name="timeline_date_06_15_2016">June 15, 2016</string>
+    <string name="timeline_event_06_15_2016">CrowdStrike, a cybersecurity firm hired by the DNC, releases information detailing an attack on the DNC computer network.
+        CrowdStrike believes it to be the work of two Russian backed cyberespionage groups, Cozy Bear and Fancy Bear, however Guccifer 2.0 later claims credit.</string>
+
+    <string name="timeline_date_05_19_2016">May 19, 2016</string>
+    <string name="timeline_event_05_19_2016">Paul Manafort is promoted to campaign chairman and chief strategist.</string>
+
+    <string name="timeline_date_03_28_2016">March 28, 2016</string>
+    <string name="timeline_event_03_28_2016">Trump hires veteran strategist Paul Manafort to head delegate wrangling for the campaign.</string>
+
+    <string name="timeline_date_03_21_2016">March 21, 2016</string>
+    <string name="timeline_event_03_21_2016">Trump brings on Walid Phares and Carter Page as foreign policy advisers.</string>
+
+    <string name="timeline_date_02_29_2016">February 29, 2016</string>
+    <string name="timeline_event_02_29_2016">Alabama Sen. Jeff Sessions, a supporter and adviser to Trump, endorses Trump\'s presidential campaign.  He is the First Senator to do so.</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+
+    <com.andytenholder.comradetrump.DatePreference
+            android:key="@string/start_date_key"
+            android:title="@string/start_date_label"
+            android:defaultValue="@string/start_date_default"/>
+
+    <com.andytenholder.comradetrump.DatePreference
+        android:key="@string/end_date_key"
+        android:title="@string/end_date_label"
+        android:defaultValue="@string/end_date_default"/>
+
+
+</PreferenceScreen>

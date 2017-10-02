@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SovietColors"
+    android:paddingLeft="4dp">
+
+    <View
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/black" />
+
+    <View
+        android:layout_marginTop="15dp"
+        android:layout_width="12dp"
+        android:layout_height="3dp"
+        android:background="@android:color/black" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            style="@style/SovietColors"
+            android:textStyle="bold"
+            android:id="@+id/timeline_date_tv"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="March 23, 2016"
+            android:textSize="16sp"/>
+
+        <TextView
+            style="@style/SovietColors"
+            android:id="@+id/timeline_event_tv"
+            android:layout_marginTop="4dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Trump taps Sessions to chair his campaign's national security advisory team." />
+    </LinearLayout>
+
+
+</LinearLayout>
